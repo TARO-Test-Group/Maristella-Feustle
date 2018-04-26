@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal"
+repositoryencoding="iso15511" countryencoding="iso3166-1"
+scriptencoding="iso15924" dateencoding="iso8601">
+<eadid countrycode="US" mainagencycode="US-txdnmu">urn:taro:untmlsc.00001</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Hedley Cooper Collection<date era="ce" calendar="gregorian"
+type="inclusive" normal="0000">1932</date>
+</titleproper>
+<author>Finding aid prepared by Maristella Feustle</author>
+</titlestmt>
+<publicationstmt>
+<publisher>UNT Music Library</publisher>
+<date era="ce" calendar="gregorian"><!-- Encode the date the finding aid was
+published (i.e. added to TARO server) --></date>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>This finding aid was revised by hand from an Archon EAD export on<date>December 12, 2017</date>
+.
+</creation>
+<langusage>Finding aid written in <language langcode="eng"
+scriptcode="Latn">English.</language>
+</langusage>
+<descrules>Describing Archives: A Content Standard (DACS)</descrules>
+</profiledesc>
+</eadheader>
+<archdesc level="file" type="inventory" audience="external">
+<did>
+<head>Collection Summary</head>
+<origination label="Creator:">
+<persname source="lcnaf" encodinganalog="100">Cooper, Hedley</persname>
+</origination>
+<unittitle label="Title:" encodinganalog="245$a">Hedley Cooper Collection</unittitle>
+<unitdate label="Dates:" type="inclusive" encodinganalog="245$f"
+normal="0000/0000" era="ce" calendar="gregorian">1932</unitdate>
+<unitid label="Identification:" countrycode="US" repositorycode="US-txdnmu"
+encodinganalog="099">06/008</unitid>
+<physdesc label="Quantity:" encodinganalog="300$a"><extent>1 box</extent></physdesc>
+<repository label="Repository:" encodinganalog="852$a">
+<extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple"
+xlink:show="new"
+xlink:actuate="onRequest" xlink:href="http://www">
+</extref>
+</repository>
+<langmaterial label="Language:" encodinganalog="546$a">
+<language langcode="eng" scriptcode="Latn">English</language>
+</langmaterial>
+</did>
+<bioghist encodinganalog="545"><head>Biographical Sketch</head>
+<p>Hedley Cooper was born in Addingham, England in 1889 and came to the United States in 1920. He taught at Trinity University when it was located in Waxahachie, and was the concertmaster of the Dallas Symphony Orchestra under Paul van Katwijk in the 1920s.
+</p>
+</bioghist>
+<scopecontent encodinganalog="520$b"><head>Scope and Contents Note</head>
+<p>This small collection contains autograph manuscripts of short compositions, as well as photocopies, and clippings from the life and career of Hedley Cooper.</p>
+</scopecontent>
+<accessrestrict encodinganalog="506">
+<head>Access Restrictions</head>
+<p>Access to this collection is provided only by special arrangement. Please contact the Music Library for more information.</p>
+</accessrestrict>
+<userestrict encodinganalog="540">
+<head>Use Restrictions</head>
+<p>Reproduction and publication of materials in this collection are subject to the policies of the UNT Music Library. Copyright restrictions may apply.</p>
+</userestrict>
+<controlaccess><head>Index Terms</head>
+<controlaccess>
+<head>Subjects (Organizations)</head>
+<corpname source="lcnaf" encodinganalog="610">Dallas Symphony Orchestra</corpname>
+<corpname source="lcnaf" encodinganalog="610">Trinity University (Waxahachie, Tex.)</corpname>
+<corpname source="lcnaf" encodinganalog="610">Trinity University (San Antonio, Tex.)</corpname>
+</controlaccess>
+</controlaccess>
+<dsc type ="combined">
+<head>Detailed Description of the Collection</head>
+<c01 level="otherlevel">
+<did>
+    <container type="Box">1</container> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Barcode 5000104318</p> 
+  </scopecontent>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Cradle Song</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. "Original score," for violin and piano. 3 pages.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Cradle Song</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Photocopy of Item 1</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Cradle Song: Berceuse - A Tone Picture</unittitle> 
+  <unitdate>1932 October</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. For violin and piano, 3 pages.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Cradle Song: Berceuse - A Tone Picture</unittitle> 
+  <unitdate>1932 October</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Three photocopies of Item 3</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Irish Lament</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. Lyrics from the poem "She Is Far from the Land" by Thomas Moore (1779-1852). For piano and voice, 3 pages. A child has jotted musical notes and written the words "Take me out to the ball game" on the reverse of the third page.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Irish Lament</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Four photocopies of Item 5</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Lament - Song without Words</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. Possibly derivative of Irish Lament, Item 5. 3 pages, for violin and piano.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Lament - Song without Words</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Four photocopies of Item 7</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Melodie Russe</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. 4 pages, for violin and piano.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Melodie Russe</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Two photocopies of Item 9</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Melodie Russe</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. Revised version of Item 9. 7 pages, for violin and piano.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Melodie Russe</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Two photocopies of Item 11.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Moods</unittitle> 
+  <unitdate>undated</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. Title surmised from other versions. Evidently a draft or working copy. 5 pages, for violin and piano.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Moods</unittitle> 
+  <unitdate>undated</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Photocopy of Item 13.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Moods</unittitle> 
+  <unitdate>6 February 1932</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. 5 pages, for violin and piano.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Moods</unittitle> 
+  <unitdate>6 February 1932</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Two photocopies of Item 15</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Moods</unittitle> 
+  <unitdate>10 April 1932</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. 5 pages, for violin and piano. "Serenade Drigo" written in pencil on back of last page.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Moods</unittitle> 
+  <unitdate>10 April 1932</unitdate> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Three photocopies of Item 17</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Romance</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. Version 1 of two versions present in collection. 2 pages, for violin and piano.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Romance</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Three photocopies of Item 19</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Romance</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript. Version 2 of two versions present in the collection. 2 pages, for violin and piano.</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Romance</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Phtotocopy of Item 21</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Untitled</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Manuscript for violin (surmised) and piano. "Maestoso."</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Untitled</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Three photocopies of Item 23</p> 
+  </scopecontent>
+  </c02>
+<c02 level="item">
+<did>
+  <container type="Box">1</container> 
+  <unittitle>Clippings</unittitle> 
+  </did>
+<scopecontent>
+  <head>Scope and Contents</head> 
+  <p>Photocopies of newspaper clippings related to the life and career of Hedley Cooper.</p> 
+  </scopecontent>
+  </c02>
+  </c01>
+</dsc>
+  </archdesc>
+  </ead>
